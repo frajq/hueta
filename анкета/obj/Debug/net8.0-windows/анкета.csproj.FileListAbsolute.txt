@@ -1,0 +1,17 @@
+C:\Users\mamae\source\repos\анкета\анкета\bin\Debug\net8.0-windows\анкета.exe
+C:\Users\mamae\source\repos\анкета\анкета\bin\Debug\net8.0-windows\анкета.deps.json
+C:\Users\mamae\source\repos\анкета\анкета\bin\Debug\net8.0-windows\анкета.runtimeconfig.json
+C:\Users\mamae\source\repos\анкета\анкета\bin\Debug\net8.0-windows\анкета.dll
+C:\Users\mamae\source\repos\анкета\анкета\bin\Debug\net8.0-windows\анкета.pdb
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.Form1.resources
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.csproj.GenerateResource.cache
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.AssemblyInfoInputs.cache
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.AssemblyInfo.cs
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.csproj.CoreCompileInputs.cache
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.dll
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\refint\анкета.dll
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.pdb
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.genruntimeconfig.cache
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\ref\анкета.dll
+C:\Users\mamae\source\repos\анкета\анкета\obj\Debug\net8.0-windows\анкета.Properties.Resources.resources
